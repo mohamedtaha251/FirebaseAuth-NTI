@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "222995953684",
+    "firebase_url": "https://fir-example-ed06d.firebaseio.com",
+    "project_id": "fir-example-ed06d",
+    "storage_bucket": "fir-example-ed06d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222995953684:android:9622490eea8e6c58",
+        "android_client_info": {
+          "package_name": "FixStore.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222995953684-t10eldj5btc72hasl2vjhg9hd9rhmaih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4b030PeKixUpW0rbCicLCng2TBb8ddM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222995953684:android:44f3b3e69133083b",
+        "android_client_info": {
+          "package_name": "com.fixstore.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222995953684-t10eldj5btc72hasl2vjhg9hd9rhmaih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4b030PeKixUpW0rbCicLCng2TBb8ddM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
